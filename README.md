@@ -1,1 +1,3 @@
 # Game-github
+
+Passionate and skilled Game Developer with a comprehensive background in game design, development, and implementation. Proficient in various programming languages, including C++, Java, and Visual Studio, with a strong understanding of game engines such as Unity and Unreal Engine. Detail-oriented and creative problem-solver adept at collaborating with multidisciplinary teams to deliver innovative and engaging gaming experiences. Experienced in both 2D and 3D game development,  Seeking an opportunity to leverage technical expertise and creative vision to contribute to the development of captivating and immersive games.
